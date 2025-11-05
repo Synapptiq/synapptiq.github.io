@@ -1,11 +1,11 @@
 [
   {
     "question": "How does Synapptiq integrate with existing Epic and Cerner EHR systems?",
-    "answer": "Synapptiq's clinical AI infrastructure connects seamlessly with Epic, Cerner, and ancillary systems through native HL7 FHIR and proprietary integration layers. Our platform maintains bidirectional data flow while automatically standardizing data to OMOP CDM format, eliminating the need for custom ETL pipelines. Healthcare IT teams typically complete integration within 2-4 weeks without disrupting existing clinical workflows."
+    "answer": "Synapptiq's clinical AI infrastructure connects seamlessly with Epic, Cerner, and ancillary systems through native HL7 FHIR and proprietary integration layers. Our platform automatically standardizes data to OMOP CDM format, eliminating the need for custom ETL pipelines and ensuring smooth integration with existing clinical workflows."
   },
   {
     "question": "What security and compliance certifications does Synapptiq maintain?",
-    "answer": "Synapptiq is fully HIPAA compliant and FedRAMP authorized, meeting the stringent security requirements for healthcare data infrastructure. Our platform implements end-to-end encryption, role-based access controls, comprehensive audit logging, and undergoes regular third-party security assessments. We maintain BAA agreements with all clients and support SOC 2 Type II compliance workflows for health systems requiring additional attestation."
+    "answer": "Synapptiq is fully HIPAA compliant, meeting stringent security requirements for healthcare data infrastructure. Our platform implements end-to-end encryption, role-based access controls, comprehensive audit logging, and undergoes regular third-party security assessments. We maintain BAA agreements with all clients and support SOC 2 Type II compliance workflows for health systems requiring additional attestation."
   },
   {
     "question": "Can clinical researchers deploy custom AI models without IT involvement?",
@@ -16,15 +16,11 @@
     "answer": "OMOP (Observational Medical Outcomes Partnership) standardization ensures your clinical data is interoperable across different AI models and research initiatives. Synapptiq automatically transforms data from Epic, Cerner, and other systems into OMOP CDM format, enabling you to deploy AI applications trained on multi-institutional datasets. This eliminates vendor lock-in and allows seamless collaboration with academic research networks while maintaining data quality and semantic consistency."
   },
   {
-    "question": "What is the typical deployment timeline for Synapptiq's healthcare AI platform?",
-    "answer": "Most health systems achieve production deployment within 6-8 weeks. This includes initial EHR integration (2-4 weeks), security review and BAA execution (1-2 weeks), user onboarding and training (1 week), and pilot AI application deployment (1-2 weeks). Our proven implementation framework, validated at Duke, Emory, and other Tier 1 academic medical centers, minimizes disruption and accelerates time-to-value for clinical AI initiatives."
+    "question": "How does Synapptiq support datathons and collaborative research?",
+    "answer": "Synapptiq's platform has successfully powered datathons with 100+ researchers, providing secure research enclaves with native MCP support, Claude Code, and Gemini integration. Our infrastructure enables multi-institutional collaboration while maintaining data governance and HIPAA compliance, allowing research teams to work together on clinical AI projects in a controlled environment."
   },
   {
     "question": "How does Synapptiq handle model versioning and governance for clinical AI applications?",
     "answer": "The platform includes comprehensive model lifecycle management with automated versioning, deployment tracking, and performance monitoring. Healthcare IT directors can establish approval workflows, set usage policies, and maintain complete audit trails for regulatory compliance. Our governance framework supports FDA pre-certification pathways and helps organizations meet Joint Commission standards for AI-assisted clinical decision support."
-  },
-  {
-    "question": "Can Synapptiq support real-time AI inference for clinical decision support?",
-    "answer": "Absolutely. Synapptiq's infrastructure is architected for low-latency, real-time AI inference with sub-second response times for most clinical decision support scenarios. The platform supports synchronous API calls from EHR workflows, asynchronous batch processing for population health analytics, and streaming inference for continuous patient monitoring applications. Our infrastructure has been validated in production environments serving 140+ clinicians across 14 health systems."
   }
 ]
