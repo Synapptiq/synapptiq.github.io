@@ -1,26 +1,26 @@
 [
   {
     "question": "How does Synapptiq integrate with existing Epic and Cerner EHR systems?",
-    "answer": "Synapptiq's clinical AI infrastructure connects seamlessly with Epic, Cerner, and ancillary systems through native HL7 FHIR and proprietary integration layers. Our platform automatically standardizes data to OMOP CDM format, eliminating the need for custom ETL pipelines and ensuring smooth integration with existing clinical workflows."
+    "answer": "Synapptiq's clinical AI infrastructure connects with Epic, Cerner, and ancillary systems through HL7 FHIR and proprietary integration layers. Our platform standardizes data to OMOP CDM format, reducing the need for custom ETL pipelines and enabling integration with existing clinical workflows."
   },
   {
     "question": "What security and compliance certifications does Synapptiq maintain?",
-    "answer": "Synapptiq is fully HIPAA compliant, meeting stringent security requirements for healthcare data infrastructure. Our platform implements end-to-end encryption, role-based access controls, comprehensive audit logging, and undergoes regular third-party security assessments. We maintain BAA agreements with all clients and support SOC 2 Type II compliance workflows for health systems requiring additional attestation."
+    "answer": "Synapptiq is HIPAA compliant, meeting stringent security requirements for healthcare data infrastructure. Our platform implements end-to-end encryption, role-based access controls, comprehensive audit logging, and undergoes regular third-party security assessments. We maintain BAA agreements with all clients."
   },
   {
     "question": "Can clinical researchers deploy custom AI models without IT involvement?",
-    "answer": "Yes. Synapptiq provides a self-service platform where clinical researchers can deploy validated AI applications through our intuitive interface. The platform includes native MCP (Model Context Protocol) support, pre-configured Claude Code environments, and Gemini integration. IT teams retain governance controls and security oversight while researchers gain the agility to iterate on clinical AI projects without lengthy approval cycles."
+    "answer": "Yes. Synapptiq provides a self-service platform where clinical researchers can deploy validated AI applications through our intuitive interface. The platform includes MCP (Model Context Protocol) support and Claude Code environments (Beta). Gemini integration is planned. IT teams retain governance controls and security oversight while researchers gain the agility to iterate on clinical AI projects without lengthy approval cycles."
   },
   {
     "question": "How does OMOP standardization benefit our AI deployment strategy?",
-    "answer": "OMOP (Observational Medical Outcomes Partnership) standardization ensures your clinical data is interoperable across different AI models and research initiatives. Synapptiq automatically transforms data from Epic, Cerner, and other systems into OMOP CDM format, enabling you to deploy AI applications trained on multi-institutional datasets. This eliminates vendor lock-in and allows seamless collaboration with academic research networks while maintaining data quality and semantic consistency."
+    "answer": "OMOP (Observational Medical Outcomes Partnership) standardization ensures your clinical data is interoperable across different AI models and research initiatives. Synapptiq transforms data from Epic, Cerner, and other systems into OMOP CDM format, enabling you to deploy AI applications trained on multi-institutional datasets. This reduces vendor lock-in and enables collaboration with academic research networks while maintaining data quality and semantic consistency."
   },
   {
     "question": "How does Synapptiq support datathons and collaborative research?",
-    "answer": "Synapptiq's platform has successfully powered datathons with 100+ researchers, providing secure research enclaves with native MCP support, Claude Code, and Gemini integration. Our infrastructure enables multi-institutional collaboration while maintaining data governance and HIPAA compliance, allowing research teams to work together on clinical AI projects in a controlled environment."
+    "answer": "Synapptiq's platform has successfully powered datathons with 100+ researchers, providing secure research enclaves with MCP support and Claude Code (Beta). Gemini integration is planned. Our infrastructure enables multi-institutional collaboration while maintaining data governance and HIPAA compliance, allowing research teams to work together on clinical AI projects in a controlled environment."
   },
   {
     "question": "How does Synapptiq handle model versioning and governance for clinical AI applications?",
-    "answer": "The platform includes comprehensive model lifecycle management with automated versioning, deployment tracking, and performance monitoring. Healthcare IT directors can establish approval workflows, set usage policies, and maintain complete audit trails for regulatory compliance. Our governance framework supports FDA pre-certification pathways and helps organizations meet Joint Commission standards for AI-assisted clinical decision support."
+    "answer": "The platform includes comprehensive model lifecycle management with versioning, deployment tracking, and performance monitoring. Healthcare IT directors can establish approval workflows, set usage policies, and maintain complete audit trails for regulatory compliance."
   }
 ]
