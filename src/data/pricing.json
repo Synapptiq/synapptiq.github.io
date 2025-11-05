@@ -1,30 +1,46 @@
 [
   {
-    "title": "Basic plan",
-    "tag": "Most popular",
-    "content": "One designer, 5 days a month",
-    "cta": "Start free trial",
-    "price": 999,
+    "title": "OMOP Foundation",
+    "tag": "Core Platform",
+    "content": "Essential OMOP CDM infrastructure and EHR integration",
+    "cta": "Request Quote",
+    "price": null,
     "services": [
-      { "item": "Access to basic services" },
-      { "item": "Basic assets and logos" },
-      { "item": "Up to 10 individual assets" },
-      { "item": "Teams/slack chat" },
-      { "item": "Cancel Anytime" }
+      { "item": "Epic & Cerner integration" },
+      { "item": "OMOP CDM standardization" },
+      { "item": "HIPAA/FedRAMP compliance" },
+      { "item": "Basic model deployment" },
+      { "item": "Standard support & training" }
     ]
   },
   {
-    "title": "Enterprise plan",
-    "tag": "Best value",
-    "content": "One team, 5 days a month",
-    "cta": "Enquire now",
-    "price": 2999,
+    "title": "Research & Datathons",
+    "tag": "Most Popular",
+    "content": "Secure AI sandboxes with datathon capabilities",
+    "cta": "Schedule Demo",
+    "price": null,
     "services": [
-      { "item": "All basic plan services" },
-      { "item": "100 assets" },
-      { "item": "Advanced reporting and analytics" },
-      { "item": "Up to 30 individual renders" },
-      { "item": "120GB storage allowance" }
+      { "item": "All OMOP Foundation features" },
+      { "item": "Secure research enclaves" },
+      { "item": "MCP + Claude Code + Gemini" },
+      { "item": "Datathon hosting platform" },
+      { "item": "Self-service AI deployment" },
+      { "item": "Multi-institutional collaboration" }
+    ]
+  },
+  {
+    "title": "AI Agent Platform",
+    "tag": "Enterprise",
+    "content": "Full agent orchestration and advanced AI infrastructure",
+    "cta": "Contact Sales",
+    "price": null,
+    "services": [
+      { "item": "All Research & Datathon features" },
+      { "item": "AI agent orchestration" },
+      { "item": "Real-time agent communication" },
+      { "item": "Multi-model deployment" },
+      { "item": "Advanced governance controls" },
+      { "item": "Dedicated support & SLA" }
     ]
   }
 ]
