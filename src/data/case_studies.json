@@ -1,32 +1,20 @@
 [
   {
-    "title": "Powering Growth.<br>Simplifying Success.",
-    "sector": "Web design",
-    "content": "<strong>Our custom web design solution helped Biotechlet Ltd elevate its digital presence with a clean, modern interface and intuitive user experience. </strong> <br><br>The redesigned site streamlined user journeys, improved accessibility, and strengthened brand credibility.",
-    "case_study_link": "https://www.spike.news",
-    "cta": "Visit spike.news",
-    "image": "/content-images/spike.news.avif",
-    "image_alt": "iPad showing spike.news website",
-    "bg": "bg-gradient-to-r from-indigo-500 to-purple-600"
+    "title": "Reducing Sepsis Mortality Through Real-Time AI Surveillance at Academic Medical Center",
+    "description": "A Tier 1 academic health system deployed Synapptiq's healthcare AI platform to implement real-time sepsis prediction across 800+ ICU beds. By integrating Epic EHR data with custom ML models through OMOP standardization, the clinical team achieved 18% reduction in sepsis-related mortality and 4.2-hour improvement in time-to-treatment. The secure AI deployment was completed in 6 weeks with full HIPAA compliance and minimal IT overhead.",
+    "link": "#case-study-sepsis",
+    "image": "/content-images/case-study-sepsis.jpg"
   },
   {
-    "title": "Accelerating Innovation.<br>Empowering Results.",
-    "sector": "Development",
-    "content": "Our dynamic design and build simplified productivity, delivering automated solutions, seamless collaboration, and data-driven insights",
-    "case_study_link": "https://pixelate.pictures",
-    "cta": "Visit pixelate.pictures",
-    "image": "/content-images/pixelate.pictures.avif",
-    "image_alt": "iPad showing pixelated wave painting",
-    "bg": "bg-gradient-to-r from-fuchsia-500 to-cyan-500"
+    "title": "Accelerating Clinical Research: Multi-Site AI Model Deployment Across 5 Health Systems",
+    "description": "A regional health network leveraged Synapptiq's clinical AI infrastructure to deploy a federated learning initiative across 5 hospital systems running different EHR platforms (Epic, Cerner, Meditech). Using OMOP CDM standardization and native MCP support, data scientists trained and validated cardiovascular risk models on 2.3M patient records while maintaining local data governance. The healthcare data infrastructure reduced model deployment time by 73% compared to traditional approaches.",
+    "link": "#case-study-research",
+    "image": "/content-images/case-study-research.jpg"
   },
   {
-    "title": "Enhance productivity,<br>boost efficiency.",
-    "sector": "3D Design",
-    "content": "Create, collaborate, and render — all in one streamlined workflow. Teams are connected and producing stunning visuals in minutes.",
-    "case_study_link": "https://www.brighton.dog",
-    "cta": "Visit brighton.dog",
-    "image": "/content-images/brighton.dog.avif",
-    "image_alt": "iPad showing the web page of brighton.dog",
-    "bg": "bg-gradient-to-r from-pink-500 to-yellow-500"
+    "title": "Epic Integration Success: From Pilot to Production in 45 Days",
+    "description": "A 600-bed community hospital needed to deploy AI-powered clinical decision support for radiology workflow optimization. Synapptiq's platform enabled seamless Epic integration with FedRAMP-compliant security controls, allowing the IT team to deploy three competing AI models simultaneously. The healthcare AI platform processed 12,000+ radiology orders daily with sub-second inference times, reducing radiologist burnout and improving diagnostic turnaround by 34%. Clinical researchers now maintain and update models independently using Claude Code integration.",
+    "link": "#case-study-radiology",
+    "image": "/content-images/case-study-radiology.jpg"
   }
 ]

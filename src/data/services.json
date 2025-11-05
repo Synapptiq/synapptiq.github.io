@@ -1,30 +1,30 @@
 [
   {
-    "title": "We create timeless visual identities for modern brands.",
-    "content": "<strong>Great companies are built on their ability to adapt and grow.</strong> We create brands that will adapt and flourish no matter where the market takes you.",
-    "cta": "Call us about branding",
+    "title": "OMOP Clinical Data Infrastructure",
+    "content": "<strong>Core OMOP CDM standardization and EHR integration platform.</strong> Seamlessly transform data from Epic, Cerner, and ancillary systems into OMOP format. Enables interoperable AI deployment, eliminates vendor lock-in, and accelerates multi-institutional research collaboration.",
+    "cta": "Explore OMOP Solutions",
     "image": "/content-images/blackspike-wallpaper-01.avif",
-    "image_alt": ""
+    "image_alt": "OMOP Infrastructure"
   },
   {
-    "title": "We design websites that drive conversions and delight users.",
-    "content": "<strong>Experts in imagining future interfaces and experiences.</strong> From UX to creative to analytics, we are there every step of the way.",
-    "cta": "Book a website review call",
+    "title": "Secure AI Sandboxing & Datathons",
+    "content": "<strong>Safe research enclaves for clinical AI experimentation.</strong> HIPAA/FedRAMP compliant sandboxes with native MCP support, Claude Code, and Gemini integration. Host multi-institutional datathons, enable self-service AI deployment, and maintain governance controls.",
+    "cta": "Launch Datathon Platform",
     "image": "/content-images/blackspike-wallpaper-02.avif",
-    "image_alt": ""
+    "image_alt": "AI Sandboxing"
   },
   {
-    "title": "Design across all dimensions",
-    "content": "<strong>Outstanding 3D design and concepts.</strong> We provide top-of-the-line 3D modelling services delivered by our skilled team of 3D artists.",
-    "cta": "Our 3D Services",
+    "title": "AI Agent Infrastructure",
+    "content": "<strong>Enterprise-grade infrastructure for powering intelligent healthcare agents.</strong> Real-time orchestration, multi-model deployment, and agent-to-agent communication. Built for clinical decision support, automated workflows, and next-generation AI applications.",
+    "cta": "Discover Agent Platform",
     "image": "/content-images/blackspike-wallpaper-03.avif",
-    "image_alt": ""
+    "image_alt": "AI Agent Infrastructure"
   },
   {
-    "title": "Apps for all devices and seasons",
-    "content": "<strong>We help companies supercharge their apps by providing world-class, effective design.</strong> Best practice design processes for your products",
-    "cta": "Arrange an app demo",
+    "title": "Enterprise Integration & Security",
+    "content": "<strong>Comprehensive Epic, Cerner, and ancillary system connectivity.</strong> HL7 FHIR, proprietary APIs, Apache Kafka streaming, and complete audit logging. Multi-cloud ready (Azure/AWS/GCP) with SOC 2 Type II and FedRAMP authorization.",
+    "cta": "View Integration Options",
     "image": "/content-images/blackspike-wallpaper-04.avif",
-    "image_alt": ""
+    "image_alt": "Enterprise Integration"
   }
 ]

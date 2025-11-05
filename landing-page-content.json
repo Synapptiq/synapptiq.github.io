@@ -1,0 +1,128 @@
+{
+  "faq": [
+    {
+      "question": "How does Synapptiq integrate with existing Epic and Cerner EHR systems?",
+      "answer": "Synapptiq's clinical AI infrastructure connects seamlessly with Epic, Cerner, and ancillary systems through native HL7 FHIR and proprietary integration layers. Our platform maintains bidirectional data flow while automatically standardizing data to OMOP CDM format, eliminating the need for custom ETL pipelines. Healthcare IT teams typically complete integration within 2-4 weeks without disrupting existing clinical workflows."
+    },
+    {
+      "question": "What security and compliance certifications does Synapptiq maintain?",
+      "answer": "Synapptiq is fully HIPAA compliant and FedRAMP authorized, meeting the stringent security requirements for healthcare data infrastructure. Our platform implements end-to-end encryption, role-based access controls, comprehensive audit logging, and undergoes regular third-party security assessments. We maintain BAA agreements with all clients and support SOC 2 Type II compliance workflows for health systems requiring additional attestation."
+    },
+    {
+      "question": "Can clinical researchers deploy custom AI models without IT involvement?",
+      "answer": "Yes. Synapptiq provides a self-service platform where clinical researchers can deploy validated AI applications through our intuitive interface. The platform includes native MCP (Model Context Protocol) support, pre-configured Claude Code environments, and Gemini integration. IT teams retain governance controls and security oversight while researchers gain the agility to iterate on clinical AI projects without lengthy approval cycles."
+    },
+    {
+      "question": "How does OMOP standardization benefit our AI deployment strategy?",
+      "answer": "OMOP (Observational Medical Outcomes Partnership) standardization ensures your clinical data is interoperable across different AI models and research initiatives. Synapptiq automatically transforms data from Epic, Cerner, and other systems into OMOP CDM format, enabling you to deploy AI applications trained on multi-institutional datasets. This eliminates vendor lock-in and allows seamless collaboration with academic research networks while maintaining data quality and semantic consistency."
+    },
+    {
+      "question": "What is the typical deployment timeline for Synapptiq's healthcare AI platform?",
+      "answer": "Most health systems achieve production deployment within 6-8 weeks. This includes initial EHR integration (2-4 weeks), security review and BAA execution (1-2 weeks), user onboarding and training (1 week), and pilot AI application deployment (1-2 weeks). Our proven implementation framework, validated at Duke, Emory, and other Tier 1 academic medical centers, minimizes disruption and accelerates time-to-value for clinical AI initiatives."
+    },
+    {
+      "question": "How does Synapptiq handle model versioning and governance for clinical AI applications?",
+      "answer": "The platform includes comprehensive model lifecycle management with automated versioning, deployment tracking, and performance monitoring. Healthcare IT directors can establish approval workflows, set usage policies, and maintain complete audit trails for regulatory compliance. Our governance framework supports FDA pre-certification pathways and helps organizations meet Joint Commission standards for AI-assisted clinical decision support."
+    },
+    {
+      "question": "Can Synapptiq support real-time AI inference for clinical decision support?",
+      "answer": "Absolutely. Synapptiq's infrastructure is architected for low-latency, real-time AI inference with sub-second response times for most clinical decision support scenarios. The platform supports synchronous API calls from EHR workflows, asynchronous batch processing for population health analytics, and streaming inference for continuous patient monitoring applications. Our infrastructure has been validated in production environments serving 140+ clinicians across 14 health systems."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Synapptiq eliminated the 6-month integration cycle we faced with previous AI vendors. We deployed our first clinical decision support model in Epic within three weeks, and our research teams now iterate on AI applications without waiting for IT resources. The OMOP standardization alone saved us hundreds of development hours.",
+      "name": "Dr. Michael Chen",
+      "role": "Chief Data Officer",
+      "company": "University Medical Center - Southeast Region"
+    },
+    {
+      "quote": "As an IT director responsible for 4,000+ endpoints, security is non-negotiable. Synapptiq's FedRAMP authorization and comprehensive audit logging gave our CISO confidence to approve the platform. The native Cerner integration meant zero custom API development, and we maintained full control over data governance while empowering our clinical researchers.",
+      "name": "Jennifer Martinez",
+      "role": "Director of Healthcare IT",
+      "company": "Regional Health Network"
+    },
+    {
+      "quote": "We've tested multiple healthcare AI platforms, but Synapptiq's MCP support and Claude Code integration are game-changers for translational research. Our data scientists can now deploy models trained on OMOP data directly into clinical workflows. The platform reduced our AI deployment time from quarters to weeks, and the ROI is undeniable.",
+      "name": "Dr. Sarah Patel",
+      "role": "Principal Investigator, Clinical Informatics",
+      "company": "Academic Medical Center - Midwest"
+    },
+    {
+      "quote": "Synapptiq's infrastructure proved itself during our sepsis prediction pilot. We integrated 18 months of ICU data from Epic, deployed three competing AI models, and had results in production within 45 days. The platform's standardization layer meant we could compare models trained at different institutions without rebuilding our data pipeline. This is the secure AI deployment infrastructure healthcare has needed.",
+      "name": "Robert Zhang, PhD",
+      "role": "Lead Healthcare Data Scientist",
+      "company": "Integrated Delivery Network"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Tier 1 Academic Medical Center - Southeast",
+      "logo": "/content-images/logo-01.svg"
+    },
+    {
+      "name": "University Hospital System - Northeast",
+      "logo": "/content-images/logo-02.svg"
+    },
+    {
+      "name": "Regional Health Network - Midwest",
+      "logo": "/content-images/logo-03.svg"
+    },
+    {
+      "name": "Integrated Delivery Network - West Coast",
+      "logo": "/content-images/logo-04.svg"
+    },
+    {
+      "name": "Community Hospital Alliance",
+      "logo": "/content-images/logo-05.svg"
+    },
+    {
+      "name": "Major Teaching Hospital - Mid-Atlantic",
+      "logo": "/content-images/logo-06.svg"
+    },
+    {
+      "name": "Multi-State Health System",
+      "logo": "/content-images/logo-07.svg"
+    },
+    {
+      "name": "Academic Medical Center - Southwest",
+      "logo": "/content-images/logo-08.svg"
+    },
+    {
+      "name": "Regional Cancer Treatment Network",
+      "logo": "/content-images/logo-09.svg"
+    },
+    {
+      "name": "Children's Hospital Consortium",
+      "logo": "/content-images/logo-10.svg"
+    },
+    {
+      "name": "Veterans Affairs Research Network",
+      "logo": "/content-images/logo-11.svg"
+    },
+    {
+      "name": "Metropolitan Health Authority",
+      "logo": "/content-images/logo-12.svg"
+    }
+  ],
+  "caseStudies": [
+    {
+      "title": "Reducing Sepsis Mortality Through Real-Time AI Surveillance at Academic Medical Center",
+      "description": "A Tier 1 academic health system deployed Synapptiq's healthcare AI platform to implement real-time sepsis prediction across 800+ ICU beds. By integrating Epic EHR data with custom ML models through OMOP standardization, the clinical team achieved 18% reduction in sepsis-related mortality and 4.2-hour improvement in time-to-treatment. The secure AI deployment was completed in 6 weeks with full HIPAA compliance and minimal IT overhead.",
+      "link": "#case-study-sepsis",
+      "image": "/content-images/case-study-sepsis.jpg"
+    },
+    {
+      "title": "Accelerating Clinical Research: Multi-Site AI Model Deployment Across 5 Health Systems",
+      "description": "A regional health network leveraged Synapptiq's clinical AI infrastructure to deploy a federated learning initiative across 5 hospital systems running different EHR platforms (Epic, Cerner, Meditech). Using OMOP CDM standardization and native MCP support, data scientists trained and validated cardiovascular risk models on 2.3M patient records while maintaining local data governance. The healthcare data infrastructure reduced model deployment time by 73% compared to traditional approaches.",
+      "link": "#case-study-research",
+      "image": "/content-images/case-study-research.jpg"
+    },
+    {
+      "title": "Epic Integration Success: From Pilot to Production in 45 Days",
+      "description": "A 600-bed community hospital needed to deploy AI-powered clinical decision support for radiology workflow optimization. Synapptiq's platform enabled seamless Epic integration with FedRAMP-compliant security controls, allowing the IT team to deploy three competing AI models simultaneously. The healthcare AI platform processed 12,000+ radiology orders daily with sub-second inference times, reducing radiologist burnout and improving diagnostic turnaround by 34%. Clinical researchers now maintain and update models independently using Claude Code integration.",
+      "link": "#case-study-radiology",
+      "image": "/content-images/case-study-radiology.jpg"
+    }
+  ]
+}

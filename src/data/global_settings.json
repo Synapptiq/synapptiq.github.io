@@ -1,57 +1,45 @@
 {
-  "title": "blackspike astro landing page",
-  "description": "A free Astro landing theme made with Tailwind",
+  "title": "Synapptiq - Clinical AI Infrastructure Platform",
+  "description": "Infrastructure platform that deploys AI applications securely with native MCP and AI coding support for healthcare systems",
   "social_image": "/1200x630.jpg",
-  "base_url": "https://astro-theme.blackspike.com",
+  "base_url": "https://synapptiq.github.io",
   "demo": {
-    "title": "Need design?",
-    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
-    "cta": "Book a call"
+    "title": "See it in action",
+    "content": "<strong>Schedule a demonstration</strong> of how Synapptiq can transform your clinical AI deployment and streamline healthcare data intelligence.",
+    "cta": "Book a demo"
   },
-  "theme_color": "#18181b",
+  "theme_color": "#000080",
   "nav": [
     {
-      "title": "Services",
-      "link": "/#services"
+      "title": "Solutions",
+      "link": "/solutions"
     },
     {
-      "title": "Case studies",
-      "link": "/#case-studies"
+      "title": "Technology",
+      "link": "/technology"
     },
     {
-      "title": "Pricing",
-      "link": "/#pricing"
+      "title": "About",
+      "link": "/about"
     },
     {
-      "title": "FAQ",
-      "link": "/#faq"
+      "title": "Resources",
+      "link": "/resources"
     },
     {
-      "title": "Newsletter",
-      "link": "/#newsletter"
+      "title": "Contact",
+      "link": "/contact"
     }
   ],
 
   "social_links": [
     {
-      "title": "Twitter / X",
-      "link": "https://x.com/blackspikeltd/"
-    },
-    {
-      "title": "Mastodon",
-      "link": "https://mastodon.cloud/@blackspike"
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/company/synapptiq"
     },
     {
       "title": "GitHub",
-      "link": "https://github.com/blackspike/"
-    },
-    {
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/company/blackspike"
-    },
-    {
-      "title": "Bluesky",
-      "link": "https://bsky.app/profile/blackspike.com/"
+      "link": "https://github.com/Synapptiq"
     }
   ]
 }
