@@ -1,0 +1,34 @@
+---
+import Layout from "../layouts/Layout.astro"
+import global_settings from "../data/global_settings.json"
+---
+
+<Layout title="About - Synapptiq">
+  <main class="container mx-auto px-4 py-16 max-w-4xl">
+    <h1 class="text-4xl font-bold mb-8">About Synapptiq</h1>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-semibold mb-4">Founder Profiles</h2>
+      <div class="space-y-6">
+        <div>
+          <h3 class="text-xl font-semibold mb-2">Ian Wong</h3>
+          <p class="text-gray-700">Clinical AI researcher with 8+ years healthcare systems experience</p>
+        </div>
+        <div>
+          <h3 class="text-xl font-semibold mb-2">Jared Houghtaling</h3>
+          <p class="text-gray-700">Data architect, NIH N3C coordinator across 300+ institutions</p>
+        </div>
+        <p class="mt-4"><strong>Combined expertise:</strong> Research validation + commercial scalability</p>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="text-2xl font-semibold mb-4">Track Record</h2>
+      <ul class="list-disc list-inside space-y-2 text-gray-700">
+        <li>Successful datathon coordination with 100+ participants</li>
+        <li>Multi-institutional platform deployment</li>
+        <li>Academic publications and presentations</li>
+      </ul>
+    </section>
+  </main>
+</Layout>

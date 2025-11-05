@@ -1,30 +1,30 @@
 [
   {
     "title": "OMOP Clinical Data Infrastructure",
-    "content": "<strong>Core OMOP CDM standardization and EHR integration platform.</strong> Seamlessly transform data from Epic, Cerner, and ancillary systems into OMOP format. Enables interoperable AI deployment, eliminates vendor lock-in, and accelerates multi-institutional research collaboration.",
+    "content": "<strong>Core OMOP CDM standardization and EHR integration platform.</strong> Seamlessly transform data from Epic and Cerner into OMOP format. Enables interoperable AI deployment, eliminates vendor lock-in, and accelerates multi-institutional research collaboration.",
     "cta": "Explore OMOP Solutions",
     "image": "/content-images/blackspike-wallpaper-01.avif",
     "image_alt": "OMOP Infrastructure"
   },
   {
     "title": "Secure AI Sandboxing & Datathons",
-    "content": "<strong>Safe research enclaves for clinical AI experimentation.</strong> HIPAA/FedRAMP compliant sandboxes with native MCP support, Claude Code, and Gemini integration. Host multi-institutional datathons, enable self-service AI deployment, and maintain governance controls.",
+    "content": "<strong>Safe research enclaves for clinical AI experimentation.</strong> HIPAA compliant sandboxes with MCP support and Claude Code integration (Beta). Successfully powers datathons with 100+ researchers. Host multi-institutional datathons and enable collaborative AI research.",
     "cta": "Launch Datathon Platform",
     "image": "/content-images/blackspike-wallpaper-02.avif",
     "image_alt": "AI Sandboxing"
   },
   {
-    "title": "AI Agent Infrastructure",
-    "content": "<strong>Enterprise-grade infrastructure for powering intelligent healthcare agents.</strong> Real-time orchestration, multi-model deployment, and agent-to-agent communication. Built for clinical decision support, automated workflows, and next-generation AI applications.",
-    "cta": "Discover Agent Platform",
+    "title": "Enterprise Integration & Security",
+    "content": "<strong>Comprehensive Epic and Cerner connectivity.</strong> HL7 FHIR, proprietary APIs, and complete audit logging. Multi-cloud deployment on Azure and GCP with HIPAA compliance.",
+    "cta": "View Integration Options",
     "image": "/content-images/blackspike-wallpaper-03.avif",
-    "image_alt": "AI Agent Infrastructure"
+    "image_alt": "Enterprise Integration"
   },
   {
-    "title": "Enterprise Integration & Security",
-    "content": "<strong>Comprehensive Epic, Cerner, and ancillary system connectivity.</strong> HL7 FHIR, proprietary APIs, Apache Kafka streaming, and complete audit logging. Multi-cloud ready (Azure/AWS/GCP) with SOC 2 Type II and FedRAMP authorization.",
-    "cta": "View Integration Options",
+    "title": "AI Agent Infrastructure (Coming Soon)",
+    "content": "<strong>Future roadmap: Enterprise-grade infrastructure for intelligent healthcare agents.</strong> Planned capabilities include multi-model orchestration and agent-to-agent communication. Built for clinical decision support and next-generation AI applications.",
+    "cta": "Join Early Access",
     "image": "/content-images/blackspike-wallpaper-04.avif",
-    "image_alt": "Enterprise Integration"
+    "image_alt": "AI Agent Infrastructure"
   }
 ]

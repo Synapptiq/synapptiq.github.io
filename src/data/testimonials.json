@@ -1,24 +1,24 @@
 [
   {
-    "quote": "Synapptiq eliminated the 6-month integration cycle we faced with previous AI vendors. We deployed our first clinical decision support model in Epic within three weeks, and our research teams now iterate on AI applications without waiting for IT resources. The OMOP standardization alone saved us hundreds of development hours.",
+    "quote": "Synapptiq eliminated the lengthy integration cycle we faced with previous AI vendors. We deployed our first clinical decision support model in Epic, and our research teams now iterate on AI applications without waiting for IT resources. The OMOP standardization alone saved us hundreds of development hours.",
     "name": "Dr. Michael Chen",
     "role": "Chief Data Officer",
     "company": "University Medical Center - Southeast Region"
   },
   {
-    "quote": "As an IT director responsible for 4,000+ endpoints, security is non-negotiable. Synapptiq's FedRAMP authorization and comprehensive audit logging gave our CISO confidence to approve the platform. The native Cerner integration meant zero custom API development, and we maintained full control over data governance while empowering our clinical researchers.",
+    "quote": "As an IT director responsible for 4,000+ endpoints, security is non-negotiable. Synapptiq's HIPAA compliance and comprehensive audit logging gave our CISO confidence to approve the platform. The native Cerner integration meant zero custom API development, and we maintained full control over data governance while empowering our clinical researchers.",
     "name": "Jennifer Martinez",
     "role": "Director of Healthcare IT",
     "company": "Regional Health Network"
   },
   {
-    "quote": "We've tested multiple healthcare AI platforms, but Synapptiq's MCP support and Claude Code integration are game-changers for translational research. Our data scientists can now deploy models trained on OMOP data directly into clinical workflows. The platform reduced our AI deployment time from quarters to weeks, and the ROI is undeniable.",
+    "quote": "We've tested multiple healthcare AI platforms, but Synapptiq's MCP support and Claude Code integration are game-changers for translational research. Our data scientists can now deploy models trained on OMOP data directly into clinical workflows. The platform significantly reduced our AI deployment time, and the ROI is undeniable.",
     "name": "Dr. Sarah Patel",
     "role": "Principal Investigator, Clinical Informatics",
     "company": "Academic Medical Center - Midwest"
   },
   {
-    "quote": "Synapptiq's infrastructure proved itself during our sepsis prediction pilot. We integrated 18 months of ICU data from Epic, deployed three competing AI models, and had results in production within 45 days. The platform's standardization layer meant we could compare models trained at different institutions without rebuilding our data pipeline. This is the secure AI deployment infrastructure healthcare has needed.",
+    "quote": "Synapptiq's infrastructure proved itself during our sepsis prediction pilot. We integrated 18 months of ICU data from Epic, deployed three competing AI models, and had results in production. The platform's standardization layer meant we could compare models trained at different institutions without rebuilding our data pipeline. This is the secure AI deployment infrastructure healthcare has needed.",
     "name": "Robert Zhang, PhD",
     "role": "Lead Healthcare Data Scientist",
     "company": "Integrated Delivery Network"

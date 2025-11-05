@@ -32,14 +32,5 @@
     }
   ],
 
-  "social_links": [
-    {
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/company/synapptiq"
-    },
-    {
-      "title": "GitHub",
-      "link": "https://github.com/Synapptiq"
-    }
-  ]
+  "social_links": []
 }

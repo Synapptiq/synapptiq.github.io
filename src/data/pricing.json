@@ -8,39 +8,37 @@
     "services": [
       { "item": "Epic & Cerner integration" },
       { "item": "OMOP CDM standardization" },
-      { "item": "HIPAA/FedRAMP compliance" },
-      { "item": "Basic model deployment" },
+      { "item": "HIPAA compliance" },
       { "item": "Standard support & training" }
     ]
   },
   {
     "title": "Research & Datathons",
     "tag": "Most Popular",
-    "content": "Secure AI sandboxes with datathon capabilities",
+    "content": "Secure AI sandboxes with proven datathon capabilities",
     "cta": "Schedule Demo",
     "price": null,
     "services": [
       { "item": "All OMOP Foundation features" },
       { "item": "Secure research enclaves" },
-      { "item": "MCP + Claude Code + Gemini" },
-      { "item": "Datathon hosting platform" },
-      { "item": "Self-service AI deployment" },
+      { "item": "MCP + Claude Code (Beta)" },
+      { "item": "Datathon hosting (100+ researchers)" },
       { "item": "Multi-institutional collaboration" }
     ]
   },
   {
-    "title": "AI Agent Platform",
-    "tag": "Enterprise",
-    "content": "Full agent orchestration and advanced AI infrastructure",
+    "title": "Enterprise Plus",
+    "tag": "Full Platform",
+    "content": "Complete platform with advanced governance and dedicated support",
     "cta": "Contact Sales",
     "price": null,
     "services": [
       { "item": "All Research & Datathon features" },
-      { "item": "AI agent orchestration" },
-      { "item": "Real-time agent communication" },
-      { "item": "Multi-model deployment" },
-      { "item": "Advanced governance controls" },
-      { "item": "Dedicated support & SLA" }
+      { "item": "Multi-cloud deployment (Azure/GCP)" },
+      { "item": "Advanced governance & audit controls" },
+      { "item": "Custom integration development" },
+      { "item": "Dedicated support & SLA" },
+      { "item": "Early access to new features" }
     ]
   }
 ]
